@@ -20,4 +20,4 @@ After selecting your configurations click on "Create" and the VM will be created
 
 ### VM instances are charged per minute / second, when the VM is on. So use it carefully and always shut it down after using.
 
-After the VM is created. You can configure it by install GPU drivers and required libraries. A guide to do that is [here]("./README.md").
+After the VM is created. You can configure it by install GPU drivers and required libraries. A guide to do that is [here]("https://github.com/AtiqueUrRehman/CoolTensorflow/blob/master/README.md").
