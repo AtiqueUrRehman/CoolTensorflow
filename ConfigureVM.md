@@ -7,7 +7,7 @@
 - Install Anaconda
 - Install Tensorflow (Gpu version)
 
-1. Follow the steps here to install CUI and RDP server : http://c-nergy.be/blog/?p=8952
+1. Follow the steps here to install GUI and RDP server : http://c-nergy.be/blog/?p=8952
 
 2. Update the system and install following 
 ```
